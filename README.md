@@ -1,4 +1,4 @@
-# 📊 Projeto de Análise com Série Temporal para a Criptomoeda Bitcoin
+# 📊💰 Projeto de Análise com Série Temporal para a Criptomoeda Bitcoin
 
 Este repositório contém um notebook desenvolvido no Jupyter Notebbok com foco em prever valores futuros do criptoativo Bitcoin.
 
