@@ -1,58 +1,55 @@
-# 📊 Projeto de Análise Série Temporal do Bitcoin
+# 📊 Projeto de Análise com Série Temporal para a Criptomoeda Bitcoin
 
-Este repositório contém um notebook desenvolvido no Jupyter Notebbok com foco em prever valores futuros
+Este repositório contém um notebook desenvolvido no Jupyter Notebbok com foco em prever valores futuros do criptoativo Bitcoin.
 
-## 🔍 Descrição do Projeto
+## 📊 Sobre o Projeto
 
-O projeto tem como objetivo:
+O notebook realiza a análise exploratória de dados extraída da biblioteca Yahoo Finance, com o objetivo de analisar e construir um modelo de Série Temporal utilizando o princípio de MonteCarlo.
 
-- [Inserir objetivo principal, como: "Analisar o comportamento de clientes com base em dados de compras."]
-- [Ex: "Construir um modelo de machine learning para prever X com base nos dados Y."]
-- [Ex: "Realizar limpeza e visualização de dados de um dataset público."]
+## 🔧 Tecnologias Utilizadas
 
-## 📁 Estrutura do Projeto
+- Python
+- Pandas
+- NumPy
+- Yfinance
+- Matplotlib / Seaborn
+- Scipy
+- Jupyter Notebook
 
-- `notebook_colab.ipynb`: Notebook principal com todo o desenvolvimento.
-- `README.md`: Este arquivo com as instruções e informações do projeto.
+## 📁 Estrutura
 
-## 📚 Tecnologias Utilizadas
+- `Séries_Temporais_Bitcoin.ipynb` (arquivo original convertido para HTML)
+- `README.md` (este arquivo)
 
-O notebook utiliza as seguintes bibliotecas e ferramentas:
+## 📌 Principais Etapas
 
-- Python 3.x  
-- Pandas  
-- NumPy  
-- Matplotlib / Seaborn  
-- Scikit-learn  
-- [Adicione outras se necessário: TensorFlow, XGBoost, Plotly, etc.]
+1. **Importação e visualização dos dados**
+2. **Análise exploratória dos dados (EDA)**
+3. **Simulação do Modelo de MonteCarlo**
+4. **Avaliação de desempenho**
+5. **Conclusões e insights**
 
-## 🗂️ Fonte dos Dados
+## 📈 Resultados
 
-[Descreva aqui a origem dos dados, por exemplo:]
+O modelo foi avaliado com métricas como **variância** e **projeção de ativo**, com resultados satisfatórios para uma visualização futura do ativo financeiro.
 
-- Dataset retirado de [Kaggle / UCI / IBGE / etc.]
-- Link para o dataset: [URL do dataset, se aplicável]
+## 🤖 Aplicação
 
-## ⚙️ Como Executar
+Este projeto é um exemplo de como o Machine Learning e Séries  seguintes e pode ser utilizado nas seguintes áreas: 
+**Economia**: Produto Interno Bruto (PIB), Índice de Preços ao Consumidor (IPC), Índice S&P 500 e taxas de desemprego
+**Ciências Sociais**: Taxas de natalidade, população, dados de migração, indicadores políticos
+**Epidemiologia**: Taxas de doenças, taxas de mortalidade, populações de mosquitos
+**Medicina**:Controle de pressão arterial, controle de peso, medições de colesterol, monitoramento de frequência cardíaca
+**Física**: Temperaturas globais, observações mensais de manchas solares, níveis de poluição.
 
-Você pode executar o projeto diretamente no Google Colab através do link abaixo:
 
-👉 [Clique aqui para abrir o notebook no Colab](https://colab.research.google.com/drive/1fRoS_GMzuW-4Rl-Y5rA1jfO7FsQXIWEQ?usp=sharing)
+## 📌 Observações
 
-**Requisitos**: Conta Google para acessar o Colab.
+> Este projeto tem finalidade educacional e não deve ser utilizado como ferramenta diagnóstica real.
+> 
+> Para visualizar o artigo no Medium do projeto 
 
-## ✅ Resultados Esperados
+---
 
-- Visualizações claras dos dados analisados  
-- Insights relevantes extraídos do dataset  
-- Modelo treinado com acurácia de XX%  
-- Exportação de resultados em formato `.csv` ou `.pkl`
-
-## 🧠 Aprendizados
-
-[Opcional — destaque o que foi aprendido com o projeto.]
-
-## 📌 Observações Finais
-
-Este projeto foi desenvolvido como parte de **[curso / desafio / projeto pessoal / portfólio]**.  
-Sinta-se à vontade para clonar, adaptar ou entrar em contato para colaborações.
+**Autor:** Vinícius Wallace  
+**Contato:** vinicius_wallace@yahoo.com.br
