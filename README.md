@@ -35,7 +35,7 @@ O modelo foi avaliado com métricas como **variância** e **projeção de ativo*
 
 ## 🤖 Aplicação
 
-Este projeto é um exemplo de como o Machine Learning e Séries Temporais e podem ser utilizadas nas seguintes áreas: 
+Este projeto é um exemplo de como o Machine Learning e Séries Temporais podem ser utilizadas nas seguintes áreas: 
 **Economia**: Produto Interno Bruto (PIB), Índice de Preços ao Consumidor (IPC), Índice S&P 500 e taxas de desemprego
 **Ciências Sociais**: Taxas de natalidade, população, dados de migração, indicadores políticos
 **Epidemiologia**: Taxas de doenças, taxas de mortalidade, populações de mosquitos
